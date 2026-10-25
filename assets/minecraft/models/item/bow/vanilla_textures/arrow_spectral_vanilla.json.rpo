@@ -1,0 +1,3 @@
+{
+	condition: "braysBetterBowAndArrows.vanillaTextures.spectralArrows.vanilla || braysBetterBowAndArrows.vanillaTextures.spectralArrows.lite"
+}

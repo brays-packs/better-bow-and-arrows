@@ -1,0 +1,6 @@
+{
+	condition: "braysBetterBowAndArrows.vanillaTextures.bow.bray",
+	fallbacks: [
+	  "assets/minecraft/models/item/bow/vanilla_textures/bow_pulling_0_vanilla.json"
+    ]
+}

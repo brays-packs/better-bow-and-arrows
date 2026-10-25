@@ -1,0 +1,52 @@
+{
+  "pack": {
+    "description": "Bullseye! \n§fby Bray §6v1.2.5",
+    "pack_format": 97.1,
+    "supported_formats": {
+      "min_inclusive": 42,
+      "max_inclusive": 999
+    },
+    "min_format": 42,
+    "max_format": 999
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "1.21.2",
+        "formats": {
+          "min_inclusive": 42,
+          "max_inclusive": 55
+        },
+        "min_format": 42,
+        "max_format": 55
+      },
+      {
+        "directory": "1.21.6",
+        "formats": {
+          "min_inclusive": 63,
+          "max_inclusive": 75
+        },
+        "min_format": 63,
+        "max_format": 75
+      },
+	  {
+        "directory": "26.1",
+        "formats": {
+          "min_inclusive": 84,
+          "max_inclusive": 88
+        },
+        "min_format": 84,
+        "max_format": 88
+      },
+	  {
+        "directory": "26.3",
+        "formats": {
+          "min_inclusive": 97.1,
+          "max_inclusive": 999
+        },
+        "min_format": 97.1,
+        "max_format": 999
+      }
+    ]
+  }
+}

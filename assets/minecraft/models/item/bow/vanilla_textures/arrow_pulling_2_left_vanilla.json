@@ -1,0 +1,196 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Bray was here :)",
+	"parent": "item/bray_generated",
+	"textures": {
+		"particle": "item/bow/vanilla_textures/bow_arrow",
+		"arrow": "item/bow/vanilla_textures/bow_arrow"
+	},
+	"elements": [
+		{
+			"name": "bow_arrow_0",
+			"from": [2, 12, 6.5],
+			"to": [3, 14, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [3, 2, 2, 4], "texture": "#arrow"},
+				"east": {"uv": [2, 2, 3, 4], "texture": "#arrow"},
+				"south": {"uv": [2, 2, 3, 4], "texture": "#arrow"},
+				"west": {"uv": [2, 2, 3, 4], "texture": "#arrow"},
+				"up": {"uv": [2, 2, 3, 3], "texture": "#arrow"},
+				"down": {"uv": [2, 3, 3, 4], "texture": "#arrow"}
+			}
+		},
+		{
+			"name": "bow_arrow_1",
+			"from": [3, 11, 6.5],
+			"to": [4, 13, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [4, 3, 3, 5], "texture": "#arrow"},
+				"east": {"uv": [3, 3, 4, 5], "texture": "#arrow"},
+				"south": {"uv": [3, 3, 4, 5], "texture": "#arrow"},
+				"west": {"uv": [3, 3, 4, 5], "texture": "#arrow"},
+				"up": {"uv": [3, 3, 4, 4], "texture": "#arrow"},
+				"down": {"uv": [3, 4, 4, 5], "texture": "#arrow"}
+			}
+		},
+		{
+			"name": "bow_arrow_2",
+			"from": [4, 10, 6.5],
+			"to": [5, 12, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [5, 4, 4, 6], "texture": "#arrow"},
+				"east": {"uv": [4, 4, 5, 6], "texture": "#arrow"},
+				"south": {"uv": [4, 4, 5, 6], "texture": "#arrow"},
+				"west": {"uv": [4, 4, 5, 6], "texture": "#arrow"},
+				"up": {"uv": [4, 4, 5, 5], "texture": "#arrow"},
+				"down": {"uv": [4, 5, 5, 6], "texture": "#arrow"}
+			}
+		},
+		{
+			"name": "bow_arrow_3",
+			"from": [5, 9, 6.5],
+			"to": [6, 11, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [6, 5, 5, 7], "texture": "#arrow"},
+				"east": {"uv": [5, 5, 6, 7], "texture": "#arrow"},
+				"south": {"uv": [5, 5, 6, 7], "texture": "#arrow"},
+				"west": {"uv": [5, 5, 6, 7], "texture": "#arrow"},
+				"up": {"uv": [5, 5, 6, 6], "texture": "#arrow"},
+				"down": {"uv": [5, 6, 6, 7], "texture": "#arrow"}
+			}
+		},
+		{
+			"name": "bow_arrow_4",
+			"from": [6, 8, 6.5],
+			"to": [7, 10, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [7, 6, 6, 8], "texture": "#arrow"},
+				"east": {"uv": [6, 6, 7, 8], "texture": "#arrow"},
+				"south": {"uv": [6, 6, 7, 8], "texture": "#arrow"},
+				"west": {"uv": [6, 6, 7, 8], "texture": "#arrow"},
+				"up": {"uv": [6, 6, 7, 7], "texture": "#arrow"},
+				"down": {"uv": [6, 7, 7, 8], "texture": "#arrow"}
+			}
+		},
+		{
+			"name": "bow_arrow_5",
+			"from": [7, 7, 6.5],
+			"to": [8, 9, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [8, 7, 7, 9], "texture": "#arrow"},
+				"east": {"uv": [7, 7, 8, 9], "texture": "#arrow"},
+				"south": {"uv": [7, 7, 8, 9], "texture": "#arrow"},
+				"west": {"uv": [7, 7, 8, 9], "texture": "#arrow"},
+				"up": {"uv": [7, 7, 8, 8], "texture": "#arrow"},
+				"down": {"uv": [7, 8, 8, 9], "texture": "#arrow"}
+			}
+		},
+		{
+			"name": "bow_arrow_6",
+			"from": [8, 6, 6.5],
+			"to": [9, 8, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [9, 8, 8, 10], "texture": "#arrow"},
+				"east": {"uv": [8, 8, 9, 10], "texture": "#arrow"},
+				"south": {"uv": [8, 8, 9, 10], "texture": "#arrow"},
+				"west": {"uv": [8, 8, 9, 10], "texture": "#arrow"},
+				"up": {"uv": [8, 8, 9, 9], "texture": "#arrow"},
+				"down": {"uv": [8, 9, 9, 10], "texture": "#arrow"}
+			}
+		},
+		{
+			"name": "bow_arrow_7",
+			"from": [9, 5, 6.5],
+			"to": [10, 7, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [10, 9, 9, 11], "texture": "#arrow"},
+				"east": {"uv": [9, 9, 10, 11], "texture": "#arrow"},
+				"south": {"uv": [9, 9, 10, 11], "texture": "#arrow"},
+				"west": {"uv": [9, 9, 10, 11], "texture": "#arrow"},
+				"up": {"uv": [9, 9, 10, 10], "texture": "#arrow"},
+				"down": {"uv": [9, 10, 10, 11], "texture": "#arrow"}
+			}
+		},
+		{
+			"name": "bow_arrow_8",
+			"from": [10, 4, 6.5],
+			"to": [11, 6, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [11, 10, 10, 12], "texture": "#arrow"},
+				"east": {"uv": [10, 10, 11, 12], "texture": "#arrow"},
+				"south": {"uv": [10, 10, 11, 12], "texture": "#arrow"},
+				"west": {"uv": [10, 10, 11, 12], "texture": "#arrow"},
+				"up": {"uv": [10, 10, 11, 11], "texture": "#arrow"},
+				"down": {"uv": [10, 11, 11, 12], "texture": "#arrow"}
+			}
+		},
+		{
+			"name": "bow_arrow_9",
+			"from": [11, 3, 6.5],
+			"to": [12, 5, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [12, 11, 11, 13], "texture": "#arrow"},
+				"east": {"uv": [11, 11, 12, 13], "texture": "#arrow"},
+				"south": {"uv": [11, 11, 12, 13], "texture": "#arrow"},
+				"west": {"uv": [11, 11, 12, 13], "texture": "#arrow"},
+				"up": {"uv": [11, 11, 12, 12], "texture": "#arrow"},
+				"down": {"uv": [11, 12, 12, 13], "texture": "#arrow"}
+			}
+		},
+		{
+			"name": "bow_arrow_10",
+			"from": [12, 3, 6.5],
+			"to": [13, 4, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6.5]},
+			"faces": {
+				"north": {"uv": [13, 12, 12, 13], "texture": "#arrow"},
+				"east": {"uv": [12, 12, 13, 13], "texture": "#arrow"},
+				"south": {"uv": [12, 12, 13, 13], "texture": "#arrow"},
+				"west": {"uv": [12, 12, 13, 13], "texture": "#arrow"},
+				"up": {"uv": [12, 12, 13, 13], "texture": "#arrow"},
+				"down": {"uv": [12, 12, 13, 13], "texture": "#arrow"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-80, -100, -40],
+			"translation": [-1, -2, 2.5],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-80, 80, 40],
+			"translation": [-1, -2, 2.5],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		}
+	},
+	"groups": [
+		{
+			"name": "bow_arrow",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+		}
+	]
+}

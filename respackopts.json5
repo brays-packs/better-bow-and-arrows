@@ -1,0 +1,29 @@
+{
+    id: "braysBetterBowAndArrows",
+    version: 13,
+    capabilities: ["FileFilter"],
+    conf: {
+		vanillaTextures: {
+			bow: [
+				"bray",
+				"vanilla"
+			],
+			arrows: [
+				"chunky",
+				"lite",
+				"vanilla"
+			],
+			potionTippedArrows: [
+				"chunky",
+				"lite",
+				"vanilla"
+			],
+			spectralArrows: [
+				"chunky",
+				"lite",
+				"vanilla"
+			]
+		},
+		"glowingTextures": true
+	}
+}

@@ -1,0 +1,7 @@
+{
+	condition: "braysBetterBowAndArrows.vanillaTextures.arrows.chunky",
+	fallbacks: [
+	  "assets/minecraft/models/item/bow/vanilla_textures/arrow_pulling_0_right_vanilla.json",
+	  "assets/minecraft/models/item/bow/vanilla_textures/arrow_pulling_0_right_lite.json"
+    ]
+}

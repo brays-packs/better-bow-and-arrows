@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Bray was here :)",
+	"parent": "item/generated",
+	"textures": {
+		"particle": "item/bow/bow",
+		"layer0": "item/bow/bow"
+	}
+}

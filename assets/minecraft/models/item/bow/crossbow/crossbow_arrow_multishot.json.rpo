@@ -1,0 +1,6 @@
+{
+	condition: "!braysBetterBowAndArrows.vanillaTextures",
+	fallbacks: [
+	  "assets/minecraft/models/item/bow/vanilla_textures/crossbow_arrow_multishot.json"
+    ]
+}

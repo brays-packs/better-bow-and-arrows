@@ -1,0 +1,6 @@
+{
+	condition: "braysBetterBowAndArrows.glowingTextures",
+	fallbacks: [
+	  "assets/minecraft/textures/item/bow/vanilla_textures/no_e/arrow_spectral_vanilla_no_e.png"
+    ]
+}

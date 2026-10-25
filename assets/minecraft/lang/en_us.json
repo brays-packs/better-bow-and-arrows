@@ -1,0 +1,22 @@
+{
+    "rpo.braysBetterBowAndArrows": "§lBray's Better Bow & Arrows",
+	"rpo.braysBetterBowAndArrows.vanillaTextures": "Alternate Textures",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.arrows": "§eArrows§r - §faffects §bArrow's §fitem model and when being fired from a bow",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.arrows.chunky": "§aChunky",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.arrows.lite": "§eLite",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.arrows.vanilla": "§cVanilla",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.potionTippedArrows": "§ePotion-Tipped Arrows§r - §faffects §bPotion Arrow's §fitem model and when being fired from a bow",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.potionTippedArrows.chunky": "§aChunky",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.potionTippedArrows.lite": "§eLite",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.potionTippedArrows.vanilla": "§cVanilla",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.spectralArrows": "§eSpectral Arrows§r - §faffects §bSpectral Arrow's §fitem model and when being fired from a bow",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.spectralArrows.chunky": "§aChunky",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.spectralArrows.lite": "§eLite",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.spectralArrows.vanilla": "§cVanilla",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.bow": "§dBows§r - §faffects §bBows §fitem model and texture",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.bow.bray": "§aBray's",
+	"rpo.braysBetterBowAndArrows.vanillaTextures.bow.vanilla": "§cVanilla",
+	"rpo.braysBetterBowAndArrows.glowingTextures": "§eGlowing Textures",
+	"rpo.braysBetterBowAndArrows.glowingTextures.true": "§aBrighten My Life!",
+	"rpo.braysBetterBowAndArrows.glowingTextures.false": "§cHello, Darkness.."
+}

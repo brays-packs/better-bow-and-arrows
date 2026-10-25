@@ -1,0 +1,8 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Bray was here :)",
+	"parent": "minecraft:item/crossbow",
+	"textures": {
+		"layer0": "item/bow/crossbow_pulling_0"
+	}
+}
